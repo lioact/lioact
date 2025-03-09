@@ -25,7 +25,7 @@ En el futuro, me gustaría especializarme en ciencias con especialidad en probab
 
 
 ## Contacto
-- LinkedIn: [@leonardo-rosas](www.linkedin.com/in/leonardo-rosas-30b6b6215)
+- LinkedIn: [@Leonardo-Rosas](linkedin.com/in/leonardo-rosas-30b6b6215)
 - Correo: leonardo.rosasri@alumno.buap.mx
 
 

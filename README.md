@@ -21,7 +21,7 @@
 ## Intereses
 En el futuro, me gustaría especializarme en ciencias con especialidad en probabilidad y estadística especificamente en alguna de estas áreas:
  - Probabilidad e inferencia estadística en ciencias de datos
- - Finanzas y riesgoPrincipales cursos: Finanzas, análisis de riesgos, estadística, técnicas de programación.
+ - Finanzas y riesgos
 
 
 ## Contacto
